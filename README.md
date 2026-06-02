@@ -18,6 +18,35 @@ The project was developed as part of the Object-Oriented Programming course and 
 
 ---
 
+### Screenshots
+
+<p align="center">
+  <img src="hangman gui screenshots/welcomepage.png" height="300" alt="Welcome Screen"/>
+  <img src="hangman gui screenshots/difficultylvlpage.png" height="300" alt="Difficulty Selection"/>
+</p>
+
+<p align="center">
+  <img src="hangman gui screenshots/guessing1.png" width="32%" alt="Gameplay 1"/>
+  &nbsp;
+  <img src="hangman gui screenshots/guessing2.png" width="32%" alt="Gameplay 2"/>
+  &nbsp;
+  <img src="hangman gui screenshots/guessing3.png" width="32%" alt="Gameplay 3"/>
+</p>
+
+<p align="center">
+  <img src="hangman gui screenshots/scoreboard1.png" width="32%" alt="Result 1"/>
+  &nbsp;
+  <img src="hangman gui screenshots/scoreboard2.png" width="32%" alt="Result 2"/>
+  &nbsp;
+  <img src="hangman gui screenshots/scoreboard3.png" width="32%" alt="Result 3"/>
+</p>
+
+<p align="center">
+  <img src="hangman gui screenshots/final.png" width="40%" alt="Goodbye Screen"/>
+</p>
+
+---
+
 ### Features
 
 - Interactive multi-screen GUI (Welcome, Difficulty Selection, Gameplay, Results)
